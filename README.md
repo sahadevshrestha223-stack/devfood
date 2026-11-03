@@ -173,7 +173,7 @@ placeholder="उत्पादन खोज्नुहोस्...">
 
 <footer>
 <h3>Dev Foods & Organic</h3>
-<p>WhatsApp: 98XXXXXXXX</p>
+<p>WhatsApp: 9849638583</p>
 <p>devfood.com.np</p>
 </footer>
 
